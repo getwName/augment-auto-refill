@@ -1,0 +1,28 @@
+{
+  "name": "augment-auto-refill",
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  "scripts": {
+    "build":"node  scripts/build.js",
+    "clear":"rimraf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["chrome-extension", "automation", "augment", "browser-extension", "auto-fill", "registration", "续杯工具"],
+  "author": "getwName <109057226+getwName@users.noreply.github.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getwName/augment-auto-refill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/getwName/augment-auto-refill/issues"
+  },
+  "homepage": "https://github.com/getwName/augment-auto-refill#readme",
+  "license": "MIT",
+  "description": "🚀 智能的Chrome浏览器扩展，专为Augment平台设计的自动注册续杯工具",
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "fs-extra": "^11.3.0",
+    "rimraf": "^6.0.1"
+  }
+}
