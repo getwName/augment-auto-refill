@@ -233,7 +233,6 @@ A: 按F12打开控制台查看详细日志
 如果你遇到问题或有建议，请：
 
 - 📝 [提交Issue](https://github.com/getwName/augment-auto-refill/issues)
-- 💬 [参与讨论](https://github.com/getwName/augment-auto-refill/discussions)
 - 📧 发送邮件至：2930234806@qq.com
 
 ---
