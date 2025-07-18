@@ -49,9 +49,9 @@
 
 #### 方法二：下载预构建版本
 
-[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue.svg)](https://github.com/getwName/augment-auto-refill/releases/latest/download/Augment自动续杯工具.zip)
+[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue.svg)](https://github.com/getwName/augment-auto-refill/releases/tag/1.0.0%E7%89%88%E6%9C%AC)
 
-1. **直接下载**：[点击下载 Augment自动续杯工具.zip](https://github.com/getwName/augment-auto-refill/releases/latest/download/Augment自动续杯工具.zip)
+1. **直接下载**：[点击下载 Augment自动续杯工具.zip](https://github.com/getwName/augment-auto-refill/releases/tag/1.0.0%E7%89%88%E6%9C%AC)
 2. **或访问** [Releases页面](https://github.com/getwName/augment-auto-refill/releases) 选择版本
 3. 解压下载的ZIP文件
 4. 在Chrome扩展页面加载解压后的文件夹
