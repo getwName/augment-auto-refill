@@ -110,14 +110,6 @@ PIN码: abc123
 💡 验证码部分将自动处理
 ```
 
-### 支持的验证系统
-
-- ✅ Cloudflare Bot Management
-- ✅ Private Access Token验证
-- ✅ PostHog行为分析
-- ✅ 沙盒安全框架
-- ✅ 传统人机验证
-
 ## ⚙️ 配置选项
 
 | 配置项 | 说明 | 推荐值 | 示例 |
